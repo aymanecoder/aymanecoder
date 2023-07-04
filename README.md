@@ -11,7 +11,7 @@ Software Engineer || Java & DevOps enthusiast (cloud native)
 *   🤝  I'm open to collaborating on microservice project
 *   ⚡  work
 
-### Skills
+# 💻 Skills
 
 
 <p align="left">
@@ -23,20 +23,5 @@ Software Engineer || Java & DevOps enthusiast (cloud native)
 ### Socials<p align="left"> <a href="https://discord.com/users/aymane#1028" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/aymanecoder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aymane-biti-97b61a228" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
  
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aymanecoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aymanecoder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanecoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=aymanecoder&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### Badges
-# 📊 GitHub Stats:
-
-<a href="http://www.github.com/aymanecoder"><img src="https://github-readme-stats.vercel.app/api?username=aymanecoder&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="aymanecoder's GitHub stats" /></a>
-
-<a href="http://www.github.com/aymanecoder"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aymanecoder&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
