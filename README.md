@@ -8,7 +8,7 @@ Software Engineer || Java & DevOps enthusiast (cloud native)
 
 *   🌍  I'm based in Rabat
 *   ✉️  You can contact me at [aymanbiti2@gmail.com](mailto:aymanbiti2@gmail.com)
-*   🤝  I'm open to collaborating on microservice project
+*   🤝  Ask me about java, microservice kuebernetes service mesh istio and aws 
 *   ⚡  work
 
 # 💻 Skills
