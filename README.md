@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Aymane Biti
 ===================================================================================================================================
-![til]([https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png](https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif))
+
 Software Engineer
 -----------------
 
