@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 
 Software Engineer || Java & DevOps enthusiast (cloud native)
-
+<iframe src="https://giphy.com/embed/3iyKHMIKg5VWG6qHUm" width="480" height="363" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/art-cartoon-illustration-3iyKHMIKg5VWG6qHUm">via GIPHY</a></p>
 *   🌍  I'm based in Rabat
 *   ✉️  You can contact me at [aymanbiti2@gmail.com](mailto:aymanbiti2@gmail.com)
 *   🤝  Ask me about java, microservice kuebernetes service mesh istio and aws 
